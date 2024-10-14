@@ -8,4 +8,4 @@ Uses basic HTML, CSS, and JavaScript to create a visually appealing website.
 Live Demo
 The site is live and can be accessed at the following link:
 
-👉 IMDB Clone Live Site
+👉 IMDB Clone https://imdb-clone-1-g98g.onrender.com/
